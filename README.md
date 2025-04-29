@@ -8,6 +8,33 @@ I'm a software developer specializing in data systems, with a focus on real-time
 ## Technologies & Tools
 ![Top Languages by Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Truong-itt&theme=material_palenight)
 
+## Data Engineering - System
+
+| Project Name | Description | Live / Demo | Source Code |
+|--------------|-------------|-------------|-------------|
+| **Auto VirtualBox** | Auto Machine VirtualBox Setup | – | [Repo](https://github.com/Truong-itt/kafka-spark-redshift) |
+
+---
+
+## AI Projects
+
+| Project Name | Description | Live / Demo | Source Code |
+|--------------|-------------|-------------|-------------|
+| **Chat Bot** | Bot Training on PDF | – | [Repo](https://github.com/Truong-itt/PDF-Agent-Chat-Bot.git) |
+| **Chat Bot** | LLM Training Vinallama-7B | – | [Repo](https://github.com/Truong-itt/Mini_test_llm_vinallama.git) |
+| **VNAUTU** | Support LLM process language Vietnamese | – | [Repo](https://github.com/Truong-itt/vnauto) |
+| **Analyst AQI** | AQI air quality prediction model on data series | – | [Kaggle](https://www.kaggle.com/code/hduytrng/analyst-aqi) |
+| **Algorithm GA** | Genetic Algorithm (GA) for Timetable Scheduling | – | [Repo](https://github.com/Truong-itt/Genetic-Algorithms-Schedule_School.git) |
+
+
+## Software
+
+| Project Name | Description | Live / Demo | Source Code |
+|--------------|-------------|-------------|-------------|
+| **FIT Curriculum** | Building the topic to manage course outline | – | [Repo](https://github.com/ngohongthong1832004/1_WebQuanLyDeCuong.git) |
+| **Web java** | API - MVC Web Application Java JDBC Servlet | – | [Repo](https://github.com/Truong-itt/java_backend_beginer.git) |
+
+---
 ### Frameworks & Libraries
 - Django
 - Selenium
