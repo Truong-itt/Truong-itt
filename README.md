@@ -12,9 +12,8 @@ I'm a software developer specializing in data systems, with a focus on real-time
 
 | Project Name | Description | Live / Demo | Source Code |
 |--------------|-------------|-------------|-------------|
-| **Auto VirtualBox** | Auto Machine VirtualBox Setup | – | [Repo](https://github.com/Truong-itt/kafka-spark-redshift) |
+| **Auto VirtualBox** | Auto Machine VirtualBox Setup | – | [Repo](https://github.com/Truong-itt/Auto_meachine_virtualBox.git) |
 
----
 
 ## AI Projects
 
@@ -35,7 +34,7 @@ I'm a software developer specializing in data systems, with a focus on real-time
 | **Web java** | API - MVC Web Application Java JDBC Servlet | – | [Repo](https://github.com/Truong-itt/java_backend_beginer.git) |
 
 ---
-## 📦 Skills Overview
+## Skills Overview
 
 | Frameworks & Libraries | Technologies | Databases | 
 |------------------------|--------------|-----------|
