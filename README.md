@@ -1,12 +1,12 @@
-# Hi, I'm Duy Truong! 👋
+# Hi, I'm Truong! 👋
 
-Summary
+## 📋 Summary
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Truong-itt&theme=algolia)
 
 I'm a software developer specializing in data systems, with a focus on real-time streaming, data lakes, and scalable data pipelines. I build robust solutions using a variety of programming languages, frameworks, and tools to handle complex data challenges.
 
 ## 🛠️ Technologies & Tools
-![Top Languages by Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Truong-itt&theme=material_palenight
+![Top Languages by Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Truong-itt&theme=material_palenight)
 
 ### Frameworks & Libraries
 - Django
