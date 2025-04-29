@@ -35,23 +35,16 @@ I'm a software developer specializing in data systems, with a focus on real-time
 | **Web java** | API - MVC Web Application Java JDBC Servlet | – | [Repo](https://github.com/Truong-itt/java_backend_beginer.git) |
 
 ---
-### Frameworks & Libraries
-- Django
-- Selenium
-- BeautifulSoup
-- Odoo
+## 📦 Skills Overview
 
-### Technologies
-- Apache Airflow
-- Apache Kafka
-- Apache Spark
-- Debezium
+| Frameworks & Libraries | Technologies | Databases | 
+|------------------------|--------------|-----------|
+| Django                 | Apache Airflow | PostgreSQL | 
+| Selenium               | Apache Kafka   | MySQL      | 
+| BeautifulSoup          | Apache Spark   | SQLite     | 
+| Odoo                   | Debezium       | MongoDB    | 
+|                        |                |            | 
 
-### Databases
-- PostgreSQL
-- MySQL
-- SQLite
-- MongoDB
 
 ## Focus Areas
 - Real-time data streaming systems
