@@ -8,7 +8,7 @@ I'm a software developer specializing in data systems, with a focus on real-time
 ## Technologies & Tools
 ![Top Languages by Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Truong-itt&theme=material_palenight)
 
-## Data Engineering - System
+## Data Engineering & System
 
 | Project Name | Description | Live / Demo | Source Code |
 |--------------|-------------|-------------|-------------|
