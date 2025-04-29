@@ -6,7 +6,20 @@
 I'm a software developer specializing in data systems, with a focus on real-time streaming, data lakes, and scalable data pipelines. I build robust solutions using a variety of programming languages, frameworks, and tools to handle complex data challenges.
 
 ## Technologies & Tools
-![Top Languages by Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Truong-itt&theme=material_palenight)
+<table>
+<tr>
+<td>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Truong-itt&theme=material_palenight" alt="Top Languages by Repository" />
+
+</td>
+<td>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Truong-itt&theme=dracula&custom_title=Theme+dracula" alt="Activity Graph" />
+
+</td>
+</tr>
+</table>
 
 ## Data Engineering - System
 
