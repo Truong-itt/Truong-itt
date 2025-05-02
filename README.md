@@ -13,6 +13,7 @@ I'm a software developer specializing in data systems, with a focus on real-time
 | Project Name | Description | Live / Demo | Source Code |
 |--------------|-------------|-------------|-------------|
 | **Auto VirtualBox** | Auto Machine VirtualBox Setup | – | [Repo](https://github.com/Truong-itt/Auto_meachine_virtualBox.git) |
+| **Realtime analysis pipeline** | Sentiment analysis pipeline realtime | – | [Repo](https://github.com/Truong-itt/Sentiment-analysis-pipeline.git) |
 | **Posgresql HA** | PostgreSQL High Availability Cluster with Patroni and etcd | – | [Repo](https://github.com/Truong-itt/PostgreSQL-HA-with-Docker.git) |
 
 
