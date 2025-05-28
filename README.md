@@ -38,13 +38,13 @@ I'm a software developer specializing in data systems, with a focus on real-time
 ---
 ## Skills Overview
 
-| Frameworks & Libraries | Technologies | Databases | 
-|------------------------|--------------|-----------|
-| Django                 | Apache Airflow | PostgreSQL | 
-| Selenium               | Apache Kafka   | MySQL      | 
-| BeautifulSoup          | Apache Spark   | SQLite     | 
-| Odoo                   | Debezium       | MongoDB    | 
-|                        |                |            | 
+| Frameworks & Libraries | Technologies | Databases | Databases | 
+|------------------------|--------------|-----------|-----------|
+| Django                 | Apache Airflow | PostgreSQL |AWS         |
+| Selenium               | Apache Kafka   | MySQL      | -----------|
+| BeautifulSoup          | Apache Spark   | SQLite     | -----------|
+| Odoo                   | Debezium       | MongoDB    | -----------|
+|                        |                |            | -----------|
 
 
 ## Focus Areas
