@@ -41,10 +41,10 @@ I'm a software developer specializing in data systems, with a focus on real-time
 | Frameworks & Libraries | Technologies | Databases | Cloud | CI/CD | 
 |------------------------|--------------|-----------|-----------|-----------|
 | Django                 | Apache Airflow | PostgreSQL |AWS         |Git actions|
-| Selenium               | Apache Kafka   | MySQL      | -----------|Git lab|
-| BeautifulSoup          | Apache Spark   | SQLite     | -----------|Jenkins|
-| Odoo                   | Debezium       | MongoDB    | -----------|-----------|
-|                        |                |            | -----------|-----------|
+| Selenium               | Apache Kafka   | MySQL      | - |Git lab|
+| BeautifulSoup          | Apache Spark   | SQLite     | - |Jenkins|
+| Odoo                   | Debezium       | MongoDB    | - | - |
+|                        |                |            | - | - |
 
 
 ## Focus Areas
